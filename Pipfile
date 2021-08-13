@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+urllib = "*"
+pathlib = "*"
+requests = "*"
+Flask = "*"
+Flask-AutoIndex = "*"
+Flask-Cors = "*"
+Werkzeug = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
