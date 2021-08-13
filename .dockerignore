@@ -1,4 +1,4 @@
-uploads/*
+uploads/**
 __pycache__
 pipfile
 templates
